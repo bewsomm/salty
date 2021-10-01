@@ -5,3 +5,5 @@ Blocklist.php
 dist/*
 test.salt
 test.php
+test.jsx
+result
